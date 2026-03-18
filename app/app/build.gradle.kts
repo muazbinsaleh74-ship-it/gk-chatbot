@@ -1,4 +1,3 @@
-**Content:**
 ``````kotlin
 plugins {{
     id("com.android.application")
