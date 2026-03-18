@@ -22,7 +22,7 @@ class ChatViewModel : ViewModel() {{
     init {{
         messages.add(
             ChatMessage(
-                text = ""স্বাগতম! ক্লাস ৬-১২ এডমিশন GK শেখার জন্য প্রশ্ন করুন。\nWelcome! Ask your GK questions for classes 6–12 admission.",
+                text = ""স্বাগতম! ক্লাস ৬-১২ এডমিশন GK শেখার জন্য প্রশ্ন করুন।\nWelcome! Ask your GK questions for classes 6–12 admission.",
                 isUser = false
             )
         )
