@@ -1,0 +1,7 @@
+**Content:**
+``````xml
+<<resources>
+    <<color name="ic_launcher_background">#F5F5F5</color>
+    <<color name="ic_launcher_foreground">#3F51B5</color>
+</resources>
+``````
